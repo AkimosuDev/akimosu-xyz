@@ -275,7 +275,7 @@ NewGuiPart9.Size = UDim2.new(0, 30, 0, 20)
 NewGuiPart9.ZIndex = 2
 NewGuiPart9.Font = Enum.Font.SourceSansBold
 NewGuiPart9.FontSize = Enum.FontSize.Size14
-NewGuiPart9.Text = "DEX"
+NewGuiPart9.Text = "TERVYLLA"
 NewGuiPart9.TextWrapped = true
 
 NewGuiPart10.Name = "Version"
@@ -287,7 +287,7 @@ NewGuiPart10.Size = UDim2.new(0, 30, 0, 20)
 NewGuiPart10.ZIndex = 2
 NewGuiPart10.Font = Enum.Font.SourceSansBold
 NewGuiPart10.FontSize = Enum.FontSize.Size12
-NewGuiPart10.Text = "V2.0.0"
+NewGuiPart10.Text = "V2"
 NewGuiPart10.TextWrapped = true
 
 NewGuiPart11.Name = "Slant"
